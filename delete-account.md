@@ -4,7 +4,7 @@ This page explains how to request deletion of your The Paw Circle account and as
 
 ## How to request account deletion
 
-Send an email to **privacy@thepawcircle.com** from the phone number-linked email account (or include your registered phone number in the request):
+Send an email to **thepawcircle.blr@gmail.com** from the phone number-linked email account (or include your registered phone number in the request):
 
 - Subject: `Delete my The Paw Circle account`
 - Include:
